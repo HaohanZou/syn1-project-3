@@ -1,6 +1,7 @@
 # Welcome to My Blog for Environmental Protection
 
 Writer: Haohan Zou
+
 Date: June 1st, 2022
 
 ## Abstract
@@ -43,8 +44,14 @@ In the presentation "Connecting Global Change to Local Impacts & Solutions", Kat
 
 ## Environemtnal Problems in San Diego
 
-* Local community organization
+* Due to the continuously increasing of temperature, in the past 50 years, sea level has increased over 4 inches in San Diego Bay. This leads to worse coastal flooding and beach erosion.
+![](in-the-past-50-years-sea.png)
 
+* Heavy fluctuating enhances the difficulities of dealing with heavy rainfall events, which might cause urban runoff flushing into the ocean and the growth of bacteria level in water.
+![](decreased-rainfall-in-20.png)
+
+* Beaches in San Diego have been harmfully impacted by the sewage flows from the Tijuana River. The poor water treatment facilities along Tijuana River leads to many trash and sewage imported into ocean, impacts the quality of both ocean and daily water supply for local community.
+![](san-diego-county-beaches.png)
 
 ## General Strategies
 
