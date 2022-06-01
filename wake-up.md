@@ -1,6 +1,7 @@
 # Welcome to My Blog for Environmental Protection
 
 Writer: Haohan Zou
+Date: June 1st, 2022
 
 ## Abstract
  
@@ -9,6 +10,7 @@ Currently, we are in a position where we have to do something to save our enviro
 ## Background
 * Facts:
     * Nasa’s Goddard Institute announces that average temperature has been warmed by 1 degree Celsius since the industrial revolution, and it is increasing with the speed at 0.2 degree Celsius per decade, causing the rise of sea level, glacial melting and so on.
+
     ![Historical temperature record](https://www.climate.gov/sites/default/files/styles/full_width_620_original_image/public/2021-07/ClimateDashboard_1400px_20210420_global-surface-temperature-graph_0.jpg?itok=PB_iJiik)
     * According to reports from MAHB of Stanford University, if human keep the current rate of exploitation and consumption of natural resources, the preliminary energy such as fossil fuel and gas will run out within 30 to 50 years, leading to severe energy depletion, and impeding the further development of our society.
     ![](Consumption.png)
