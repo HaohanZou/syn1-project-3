@@ -44,14 +44,27 @@ In the presentation "Connecting Global Change to Local Impacts & Solutions", Kat
 
 ## Environemtnal Problems in San Diego
 
-* Due to the continuously increasing of temperature, in the past 50 years, sea level has increased over 4 inches in San Diego Bay. This leads to worse coastal flooding and beach erosion.
+* Due to the continuously increasing of temperature, in the past 50 years, sea level has increased over 4 inches in San Diego Bay.
 ![](in-the-past-50-years-sea.png)
 
-* Heavy fluctuating enhances the difficulities of dealing with heavy rainfall events, which might cause urban runoff flushing into the ocean and the growth of bacteria level in water.
+* Heavy fluctuating significantly affects' human activities which are highly dependent on rain water.
 ![](decreased-rainfall-in-20.png)
 
-* Beaches in San Diego have been harmfully impacted by the sewage flows from the Tijuana River. The poor water treatment facilities along Tijuana River leads to many trash and sewage imported into ocean, impacts the quality of both ocean and daily water supply for local community.
+* Beaches in San Diego have been harmfully impacted by the sewage flows from the Tijuana River. The poor water treatment facilities along Tijuana River leads to many trash and sewage imported into ocean.
 ![](san-diego-county-beaches.png)
+
+* Impacts on San Diego area:
+    * Environments: 
+        
+        The large volume amount of trash and sewage have been thrown into oceans and rivers, significantly affect the quality of water and consequently the health and wellbeing of local human and marine animals. What's more, the continuously raising of sea level exacerbate the effects of coastal flooding, leading to severe beach erosion and as well as drainage and rainoff from heavy storms. 
+
+    * Economy:
+
+        Ocean and beaches are one of the most important components of San Diego's economy strucutre. Throught the diversity of marine animals and various recreations, beach in San Diego attracts lots of people to travel at here. However, current environmental crisis affects the biodiversity and environments in bay areas, so tourism has been significantly affected. What's more, as environmental crisis poses so many threats to health of both human and animals, the amount of budget on health care have been increased a lot, making the burden of goverments much heavier.
+
+    * Health:
+
+        Oceans and rivers are the main sources of water supply for San Diego area. However, with so much wastes have been dumped into oceans and rivers, it's inevitable to affects the water that local people daily use. As a result, big threats have been imposed for people's health.
 
 ## General Strategies
 
@@ -80,7 +93,7 @@ In the presentation "Connecting Global Change to Local Impacts & Solutions", Kat
     Here is a availabe link to access this book: [click here.](https://search-library.ucsd.edu/discovery/fulldisplay?context=L&vid=01UCS_SDI:UCSD&search_scope=ArticlesBooksEtc&tab=ArticleBooksEtc&docid=alma991023411578806535)
 
 
- ![](https://storage.googleapis.com/afs-prod/media/b373abb645d441dd84a5f65ae6efcb81/1000.jpeg)
+* This is the site where I collected data of San Diego local environments: [click here.](https://www.sandiego.edu/soles/hub-nonprofit/initiatives/dashboard/water-quality.php)
 
 
 
