@@ -68,6 +68,10 @@ In the presentation "Connecting Global Change to Local Impacts & Solutions", Kat
 
 ## General Strategies
 
+* For local people, they could cultivate plants in their own gardens or in their communities to improve our environments. With more and more trees and plants, the ability of absorbing water into the ground and the amount of underground water will be significantly benefited. Thus, when rainfall is heavy, the high amount of water can be absorbed into underground and there's no flood in communities. What's more, these plants could help ther reservation of underground water, which can be used as a main source of water supply.
+
+* In addition, we are able to set up an organization to protect the environments of our coast. Since many local people's income relate to tourism and recreation at coast areas, so I believe that many people would attend in this organization. Like "Regional Climate Action Plan" in Florida mentioned by Kahan, we could invite experts to guide our members to use evidence-based methods to address our local coastal environmental problems.
+
 
 ## Additional Sources
 * [This is the video where I get the idea of protection local environments.](https://www.youtube.com/watch?v=FHkZ7aOE3hQ)
